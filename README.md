@@ -21,7 +21,8 @@ e.	Create a Dashboard
 f.	Summarize Findings
 
 Dashboard
-![image](https://github.com/user-attachments/assets/19f8899c-f23b-4158-abde-1b5c15fea2e3)
+![hotel_project](https://github.com/user-attachments/assets/7963324c-9401-41ff-ba4e-4861a734cfc8)
+
 
 Knowledge gain from this project
 • Learnt how to create a database in SQL server using CSV files. 
