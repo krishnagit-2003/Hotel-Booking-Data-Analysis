@@ -25,6 +25,7 @@ Dashboard
 
 
 Knowledge gain from this project
+
 • Learnt how to create a database in SQL server using CSV files. 
 
 • How to perform exploratory data analysis using SQL quires to get an overview of provided dataset. 
