@@ -19,9 +19,14 @@ Dashboard
 
 Knowledge gain from this project
 • Learnt how to create a database in SQL server using CSV files. 
+
 • How to perform exploratory data analysis using SQL quires to get an overview of provided dataset. 
+
 • Learnt how to connect the SQL server database with the Power BI. 
+
 • Created a calculated columns & DAX measures. 
+
 • How to add icons to enhance the visuals on the dashboards. 
-• Used different charts along  with key metrics, just to show the trend along with the     metrics itself.
+
+• Used different charts along  with key metrics, just to show the trend along with the metrics itself.
 
