@@ -7,11 +7,17 @@ answers for the below questions to the stakeholders. – Is our hotel revenue gr
 year? – What trends we see in the data?
 
 Steps Follow to get the Insights
+
 a.	Build a database
+
 b.	Develop the SQL query to join a tables
+
 c.	Exploratory data analysis using SQL
+
 d.	Connect Power BI to the database
+
 e.	Create a Dashboard
+
 f.	Summarize Findings
 
 Dashboard
